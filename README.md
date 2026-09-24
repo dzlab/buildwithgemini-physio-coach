@@ -93,3 +93,11 @@ export AGENT_DIRECTORY="app"
 python main.py
 ```
 Open a browser to the local server port displayed in the console output (default: 8080).
+
+---
+
+## 📜 Development & Conversation Archive
+
+The complete pair-programming dialogue and development history between the developer and Antigravity (Google DeepMind) is archived in the repository:
+- **Readable Dialogue Log**: [`archive/CONVERSATION_ARCHIVE.md`](./archive/CONVERSATION_ARCHIVE.md)
+- **Raw Structured Transcript**: [`archive/conversation_transcript.jsonl`](./archive/conversation_transcript.jsonl)
